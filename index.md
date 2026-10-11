@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my Portfolio!
 ---
-#Hello World!
+Hi, I’m Alden an aspiring physicist who turns questions into answers. I’m known for being reliable, curious, and focused on work that makes a real difference for the people I work with. Explore my projects below to see how I work, and feel free to get in touch if you’d like to collaborate.
